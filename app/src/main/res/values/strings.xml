@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Bridge</string>
+    <string name="start_button_text">Start SMS Gateway</string>
+    <string name="stop_button_text">Stop SMS Gateway</string>
+    <string name="log_default_text">Log output will be displayed here.</string>
+    <string name="sms_service_started">SMS Gateway service started...</string>
+    <string name="sms_service_stopped">SMS Gateway service stopped.</string>
+</resources>

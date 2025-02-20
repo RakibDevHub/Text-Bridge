@@ -1,0 +1,35 @@
+# Ignore Android build files
+/build/
+/captures/
+/outputs/
+
+/# Ignore Android Studio settings
+.idea/
+/*.iml
+
+# Ignore local Gradle files
+.gradle/
+/local.properties
+
+# Ignore log files
+*.log
+
+# Ignore generated files
+.DS_Store
+*.apk
+*.aab
+
+# Ignore dependency caches
+/caches/
+/wrapper/
+
+# Ignore Keystore files (if any)
+*.keystore
+*.jks
+
+# Ignore test coverage reports
+/coverage/
+
+# Ignore virtual machines and device settings
+/.android/
+
